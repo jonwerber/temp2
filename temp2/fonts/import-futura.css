@@ -1,0 +1,142 @@
+﻿/* Linotype Futura Fontstack */
+@font-face {
+  font-family: "Futura LT Light";
+  src: url("futura/futura-light-webfont.eot?#iefix");
+  src: url("futura/futura-light-webfont.eot?#iefix") format("eot"), url("futura/futura-light-webfont.woff2") format("woff2"), url("futura/futura-light-webfont.woff") format("woff"), url("futura/futura-light-webfont.ttf") format("truetype"), url("futura/futura-light-webfont.svg#futura-light-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Light Oblique";
+  src: url("futura/futura-light-oblique-webfont.eot?#iefix");
+  src: url("futura/futura-light-oblique-webfont.eot?#iefix") format("eot"), url("futura/futura-light-oblique-webfont.woff2") format("woff2"), url("futura/futura-light-oblique-webfont.woff") format("woff"), url("futura/futura-light-oblique-webfont.ttf") format("truetype"), url("futura/futura-light-oblique-webfont.svg#futura-light-oblique-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Book";
+  src: url("futura/futura-book-webfont.eot?#iefix");
+  src: url("futura/futura-book-webfont.eot?#iefix") format("eot"), url("futura/futura-book-webfont.woff2") format("woff2"), url("futura/futura-book-webfont.woff") format("woff"), url("futura/futura-book-webfont.ttf") format("truetype"), url("futura/futura-book-webfont.svg#futura-book-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Book Oblique";
+  src: url("futura/futura-book-oblique-webfont.eot?#iefix");
+  src: url("futura/futura-book-oblique-webfont.eot?#iefix") format("eot"), url("futura/futura-book-oblique-webfont.woff2") format("woff2"), url("futura/futura-book-oblique-webfont.woff") format("woff"), url("futura/futura-book-oblique-webfont.ttf") format("truetype"), url("futura/futura-book-oblique-webfont.svg#futura-book-oblique-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Medium";
+  src: url("futura/futura-medium-webfont.eot?#iefix");
+  src: url("futura/futura-medium-webfont.eot?#iefix") format("eot"), url("futura/futura-medium-webfont.woff2") format("woff2"), url("futura/futura-medium-webfont.woff") format("woff"), url("futura/futura-medium-webfont.ttf") format("truetype"), url("futura/futura-medium-webfont.svg#futura-medium-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Medium Oblique";
+  src: url("futura/futura-medium-oblique-webfont.eot?#iefix");
+  src: url("futura/futura-medium-oblique-webfont.eot?#iefix") format("eot"), url("futura/futura-medium-oblique-webfont.woff2") format("woff2"), url("futura/futura-medium-oblique-webfont.woff") format("woff"), url("futura/futura-medium-oblique-webfont.ttf") format("truetype"), url("futura/futura-medium-oblique-webfont.svg#futura-medium-oblique-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Bold";
+  src: url("futura/futura-bold-webfont.eot?#iefix");
+  src: url("futura/futura-bold-webfont.eot?#iefix") format("eot"), url("futura/futura-bold-webfont.woff2") format("woff2"), url("futura/futura-bold-webfont.woff") format("woff"), url("futura/futura-bold-webfont.ttf") format("truetype"), url("futura/futura-bold-webfont.svg#futura-bold-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Bold Oblique";
+  src: url("futura/futura-bold-oblique-webfont.eot?#iefix");
+  src: url("futura/futura-bold-oblique-webfont.eot?#iefix") format("eot"), url("futura/futura-bold-oblique-webfont.woff2") format("woff2"), url("futura/futura-bold-oblique-webfont.woff") format("woff"), url("futura/futura-bold-oblique-webfont.ttf") format("truetype"), url("futura/futura-bold-oblique-webfont.svg#futura-bold-oblique-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Extra Bold";
+  src: url("futura/futura-extra-bold-webfont.eot?#iefix");
+  src: url("futura/futura-extra-bold-webfont.eot?#iefix") format("eot"), url("futura/futura-extra-bold-webfont.woff2") format("woff2"), url("futura/futura-extra-bold-webfont.woff") format("woff"), url("futura/futura-extra-bold-webfont.ttf") format("truetype"), url("futura/futura-extra-bold-webfont.svg#futura-extra-bold-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Extra Bold Obl";
+  src: url("futura/futura-extra-bold-oblique-webfont?#iefix");
+  src: url("futura/futura-extra-bold-oblique-webfont.eot?#iefix") format("eot"), url("futura/futura-extra-bold-oblique-webfont.woff2") format("woff2"), url("futura/futura-extra-bold-oblique-webfont.woff") format("woff"), url("futura/futura-extra-bold-oblique-webfont.ttf") format("truetype"), url("futura/futura-extra-bold-oblique-webfont.svg#futura-extra-bold-oblique-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Heavy";
+  src: url("futura/futura-heavy-webfont.eot?#iefix");
+  src: url("futura/futura-heavy-webfont.eot?#iefix") format("eot"), url("futura/futura-heavy-webfont.woff2") format("woff2"), url("futura/futura-heavy-webfont.woff") format("woff"), url("futura/futura-heavy-webfont.ttf") format("truetype"), url("futura/futura-heavy-webfont.svg#futura-heavy-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Heavy Oblique";
+  src: url("futura/futura-heavy-oblique-webfont.eot?#iefix");
+  src: url("futura/futura-heavy-oblique-webfont.eot?#iefix") format("eot"), url("futura/futura-heavy-oblique-webfont.woff2") format("woff2"), url("futura/futura-heavy-oblique-webfont.woff") format("woff"), url("futura/futura-heavy-oblique-webfont.ttf") format("truetype"), url("futura/futura-heavy-oblique-webfont.svg#futura-heavy-oblique-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Light Condensed";
+  src: url("futura/futura-light-condensed-webfont.eot?#iefix");
+  src: url("futura/futura-light-condensed-webfont.eot?#iefix") format("eot"), url("futura/futura-light-condensed-webfont.woff2") format("woff2"), url("futura/futura-light-condensed-webfont.woff") format("woff"), url("futura/futura-light-condensed-webfont.ttf") format("truetype"), url("futura/futura-light-condensed-webfont.svg#futura-light-condensed-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Light Cond Obl";
+  src: url("futura/futura-light-condensed-oblique.eot?#iefix");
+  src: url("futura/futura-light-condensed-oblique-webfont.eot?#iefix") format("eot"), url("futura/futura-light-condensed-oblique-webfont.woff2") format("woff2"), url("futura/futura-light-condensed-oblique-webfont.woff") format("woff"), url("futura/futura-light-condensed-oblique-webfont.ttf") format("truetype"), url("futura/futura-light-condensed-oblique-webfont.svg#futura-light-condensed-oblique-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Medium Condensed";
+  src: url("futura/futura-medium-condensed-webfont.eot?#iefix");
+  src: url("futura/futura-medium-condensed-webfont.eot?#iefix") format("eot"), url("futura/futura-medium-condensed-webfont.woff2") format("woff2"), url("futura/futura-medium-condensed-webfont.woff") format("woff"), url("futura/futura-medium-condensed-webfont.ttf") format("truetype"), url("futura/futura-medium-condensed-webfont.svg#futura-medium-condensed-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Medium Cond Obl";
+  src: url("futura/futura-medium-condensed-oblique-webfont.eot?#iefix");
+  src: url("futura/futura-medium-condensed-oblique-webfont.eot?#iefix") format("eot"), url("futura/futura-medium-condensed-oblique-webfont.woff2") format("woff2"), url("futura/futura-medium-condensed-oblique-webfont.woff") format("woff"), url("futura/futura-medium-condensed-oblique-webfont.ttf") format("truetype"), url("futura/futura-medium-condensed-oblique-webfont.svg#futura-medium-condensed-oblique-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Bold Condensed";
+  src: url("futura/futura-bold-condensed-webfont.eot?#iefix");
+  src: url("futura/futura-bold-condensed-webfont.eot?#iefix") format("eot"), url("futura/futura-bold-condensed-webfont.woff2") format("woff2"), url("futura/futura-bold-condensed-webfont.woff") format("woff"), url("futura/futura-bold-condensed-webfont.ttf") format("truetype"), url("futura/futura-bold-condensed-webfont.svg#futura-bold-condensed-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT Bold Cond Obl";
+  src: url("futura/futura-bold-condensed-oblique-webfont.eot?#iefix");
+  src: url("futura/futura-bold-condensed-oblique-webfont.eot?#iefix") format("eot"), url("futura/futura-bold-condensed-oblique-webfont.woff2") format("woff2"), url("futura/futura-bold-condensed-oblique-webfont.woff") format("woff"), url("futura/futura-bold-condensed-oblique-webfont.ttf") format("truetype"), url("futura/futura-bold-condensed-oblique-webfont.svg#futura-bold-condensed-oblique-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT X Bold Condensed";
+  src: url("futura/futura-extrabold-condensed-webfont.eot?#iefix");
+  src: url("futura/futura-extrabold-condensed-webfont.eot?#iefix") format("eot"), url("futura/futura-extrabold-condensed-webfont.woff2") format("woff2"), url("futura/futura-extrabold-condensed-webfont.woff") format("woff"), url("futura/futura-extrabold-condensed-webfont.ttf") format("truetype"), url("futura/futura-extrabold-condensed-webfont.svg#futura-extrabold-condensed-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Futura LT X Bold Cond Obl";
+  src: url("futura/futura-extrabold-condensed-oblique-webfont.eot?#iefix");
+  src: url("futura/futura-extrabold-condensed-oblique-webfont.eot?#iefix") format("eot"), url("futura/futura-extrabold-condensed-oblique-webfont.woff2") format("woff2"), url("futura/futura-extrabold-condensed-oblique-webfont.woff") format("woff"), url("futura/futura-extrabold-condensed-oblique-webfont.ttf") format("truetype"), url("futura/futura-extrabold-condensed-oblique-webfont.svg#futura-extrabold-condensed-oblique-webfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+/*# sourceMappingURL=import-futura.css.map */
